@@ -2,6 +2,9 @@
 
 A binary classification project predicting passenger survival on the Titanic using multiple ML models, with hyperparameter tuning via GridSearchCV.
 
+## Live Demo
+Try it yourself: https://titanic-survival-prediction-gj8muwnsgjwfkrs3bqvm79.streamlit.app
+
 ## Problem
 
 Given passenger information (class, sex, age, fare, etc.), predict whether a passenger survived (binary: 0 = No, 1 = Yes).
