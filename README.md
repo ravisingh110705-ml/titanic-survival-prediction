@@ -40,7 +40,7 @@ Python, Pandas, NumPy, Scikit-learn
 
 ## Author
 
-Ravi Singh Bungla — [ravisingh110705@gmail.com](mailto:ravisingh110705@gmail.com)
+Ravi Singh Bungla — [GitHub](https://github.com/ravisingh110705-ml) | [LinkedIn](your-linkedin-url-here)
 
 ## Other Projects
 - [Heart Disease Prediction](https://github.com/ravisingh110705-ml/heart-disease-prediction)
