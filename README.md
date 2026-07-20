@@ -41,3 +41,8 @@ Python, Pandas, NumPy, Scikit-learn
 ## Author
 
 Ravi Singh Bungla — [ravisingh110705@gmail.com](mailto:ravisingh110705@gmail.com)
+
+## Other Projects
+- [Heart Disease Prediction](https://github.com/ravisingh110705-ml/heart-disease-prediction)
+- [Medical Insurance Cost Prediction](https://github.com/ravisingh110705-ml/medical-insurance-cost-prediction)
+- [Telco Customer Churn Prediction](https://github.com/ravisingh110705-ml/telco-churn-prediction)
